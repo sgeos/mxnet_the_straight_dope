@@ -9,6 +9,7 @@ name = "pypi"
 jupyter = "*"
 graphviz = "*"
 mxnet = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"

@@ -25,6 +25,8 @@ The following output should be displayed.
 
 # References / External Links
 
+- [Machine Learing, Google's AI is Now Smart Enough to Play Atari Like the Pros](https://www.wired.com/2015/02/google-ai-plays-atari-like-pros/)
+- [Machine Learing, Google's AlphaGo Trounces Humans- But it Also Gives Them a Boost](https://www.wired.com/2017/05/googles-alphago-trounces-humans-also-gives-boost/)
 - [MXNet, Apache MXNet Home Page][mxnet-official]
 - [MXNet, Build from Source][mxnet-build]
 - [MXNet, Deep Learning - The Straight Dope, Official Repository][official-repository]
