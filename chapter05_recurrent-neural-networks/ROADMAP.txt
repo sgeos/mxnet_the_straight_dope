@@ -1,0 +1,3 @@
+Dropout for recurrent nets
+Zoneout regularization
+
