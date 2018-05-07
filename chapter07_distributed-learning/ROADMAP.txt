@@ -1,0 +1,3 @@
+Asynchronous SGD
+Elastic SGD
+
