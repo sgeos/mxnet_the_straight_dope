@@ -1,0 +1,8 @@
+Network of networks (inception & co)
+Residual networks
+Fully-convolutional networks
+Siamese (conjoined?) networks
+Embeddings (pairwise and triplet losses)
+Inceptionism / visualizing feature detectors
+Style transfer
+
