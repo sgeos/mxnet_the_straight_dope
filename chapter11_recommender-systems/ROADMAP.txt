@@ -1,0 +1,5 @@
+Latent factor models
+Deep latent factor models
+Bilinear models
+Learning from implicit feedback
+
