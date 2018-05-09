@@ -1,0 +1,4 @@
+Intro to automatic speech recognition
+Connectionist temporal classification (CSC) for unaligned sequences
+Combining static and sequential data
+
