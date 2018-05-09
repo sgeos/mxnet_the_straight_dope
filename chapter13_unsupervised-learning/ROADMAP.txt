@@ -1,0 +1,5 @@
+Introduction to autoencoders
+Convolutional autoencoders (introduce upconvolution)
+Denoising autoencoders
+Clustering
+
