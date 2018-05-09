@@ -1,0 +1,8 @@
+Word embeddings (Word2Vec)
+Sentence embeddings (SkipThought)
+Sentiment analysis
+Sequence-to-sequence learning (machine translation)
+Sequence transduction with attention (machine translation)
+Named entity recognition
+Image captioning
+

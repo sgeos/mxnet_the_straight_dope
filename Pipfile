@@ -12,6 +12,8 @@ mxnet = "*"
 matplotlib = "*"
 opencv-python = "*"
 scikit-image = "*"
+tqdm = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6"
