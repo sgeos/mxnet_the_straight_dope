@@ -1,0 +1,7 @@
+Factor Models for Forecasting
+Recurrent Neural Network for Forecasting
+Gaussian processes for Forecasting
+Bayesian Time Series Models
+Modeling missing data
+Combining static and sequential data
+
