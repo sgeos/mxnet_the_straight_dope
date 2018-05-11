@@ -1,0 +1,3 @@
+Dropout-based uncertainty estimation (BALD)
+Variational autoencoders
+
